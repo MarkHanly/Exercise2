@@ -1,1 +1,3 @@
 # HEllo world
+
+plot(cars)
